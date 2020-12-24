@@ -37,3 +37,75 @@ li {
     color:rgba(7, 9, 182, 0.945);
     border-bottom: none;
 }
+.Pharma img{
+    
+    margin-top: 28px;
+    padding-left: 70px;
+
+}
+.three {
+    display: flex;
+    width: 900px;
+    height:200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -50px;
+   
+}
+
+.quality {
+    background-color: rgba(181, 219, 245, 0.945);
+    font-family: Helvetica, sans-serif;
+    padding: 0 20px 20px 20px;
+    width: 300px;
+    color:rgb(5, 79, 92);
+}
+.consistency {
+    background-color:rgba(215, 232, 247, 0.945);
+    font-family: Helvetica, sans-serif;
+    padding: 0 20px 20px 20px;
+    width: 300px;
+    color:rgb(5, 79, 92);
+}
+.excellence {
+    background-color: rgba(198, 226, 245, 0.945);
+    font-family: Helvetica, sans-serif;
+    padding: 0 20px 20px 20px;
+    width: 300px;
+    color:rgb(5, 79, 92);
+}
+button {
+    color:rgb(5, 79, 92);
+}
+.therapeutic {
+    width: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+}
+figcaption {
+    text-align: center;
+    text-decoration: bold;
+    color:rgb(4, 65, 114);
+    font-size: 20px;
+}
+.ourproduct {
+    text-align: center;
+    font-size: 30px;
+    color:rgb(70, 70, 165)
+}
+.team {
+    background-image: url("C:/Payal Project/Company Homepage with Flexbox/Resource/our team.jfif" );
+    background-repeat: no-repeat;
+    width: 1100px;
+    height: 700px;
+    background-size:cover;
+    opacity: 0.9;
+    margin-left:125px;
+}
+.team img {
+    
+}
